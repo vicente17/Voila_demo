@@ -54,7 +54,7 @@ nbformat==5.4.0
 nest-asyncio==1.5.5
 networkx==2.6.3
 notebook==6.4.11
-numpy @ file:///C:/Users/vamer/pipwin/numpy-1.21.5%2Bvanilla-cp37-cp37m-win_amd64.whl
+numpy==1.20.1
 Office365-REST-Python-Client==2.3.11
 packaging==21.3
 pandas==1.3.5
@@ -73,7 +73,7 @@ pyjsparser==2.7.1
 PyJWT==2.3.0
 pyparsing==3.0.8
 PyPrind==2.11.3
-pyproj @ file:///C:/Users/vamer/pipwin/pyproj-3.2.1-cp37-cp37m-win_amd64.whl
+pyproj==2.6.1.post1
 pyrsistent==0.18.1
 pySmartDL==1.3.4
 python-dateutil==2.8.2
