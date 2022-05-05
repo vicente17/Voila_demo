@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True --template=vuetify-default Voila_Test.ipynb
+web: voila --port=$PORT --no-browser Voila_Test.ipynb
